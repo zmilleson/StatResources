@@ -5,6 +5,8 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 
 ## Data Sets
 * [Kaggle](https://www.kaggle.com/datasets)
+* [Kaggle - NFL Draft Outcomes](https://www.kaggle.com/ronaldjgrafjr/nfl-draft-outcomes)
+* [Kaggle - Detailed 2015 Play-by-Play Data](https://www.kaggle.com/maxhorowitz/nflplaybyplay2015)
 
 ## Sports-Reference
 * [NFL Reference](http://www.pro-football-reference.com/)
