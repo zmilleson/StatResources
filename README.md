@@ -30,6 +30,7 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 * [SuredBits API for NFL & NBA](http://suredbits.com/api/)
 * [Script to pull NFL data into relational db](https://github.com/BurntSushi/nfldb)
 * [Football Outsiders Snapcounts](http://www.footballoutsiders.com/stats/snapcounts)
+* [Historical NFL Combine Results](http://nflcombineresults.com)
 
 ### NFLGSIS
 * [NFL Game Statistics & Information System](http://nflgsis.com)
