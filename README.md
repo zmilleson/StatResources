@@ -3,7 +3,7 @@ Listed below is a collection of statistical resources that I have come across ov
 I decided to put them all in one place for myself and others to easily consume and update.
 Most of the sites and data have a sports theme as you will be able to tell immediately.
 
-## Data Sets
+## Datasets
 * [Kaggle](https://www.kaggle.com/datasets)
 * [Kaggle - NFL Draft Outcomes](https://www.kaggle.com/ronaldjgrafjr/nfl-draft-outcomes)
 * [Kaggle - Detailed 2015 Play-by-Play Data](https://www.kaggle.com/maxhorowitz/nflplaybyplay2015)
@@ -33,6 +33,7 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 * [Script to pull NFL data into relational db](https://github.com/BurntSushi/nfldb)
 * [Football Outsiders Snapcounts](http://www.footballoutsiders.com/stats/snapcounts)
 * [Historical NFL Combine Results](http://nflcombineresults.com)
+* [nflscrapR - Scrapes NFL API with R](https://github.com/maksimhorowitz/nflscrapR)
 
 ### NFLGSIS
 * [NFL Game Statistics & Information System](http://nflgsis.com)
