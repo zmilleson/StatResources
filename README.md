@@ -53,7 +53,8 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 
 ## Other Sites or Articles
 * [Splunk Article about ArmchairAnalysis.com](http://blogs.splunk.com/2016/11/17/dashboard-digest-series-episode-4/)
-* [SBNation's Football Study Hall](http://www.footballstudyhall.com/)
+* [SBNation's Football Study Hall](http://www.footballstudyhall.com)
+* [Snoozle](http://www.snoozlesports.net)
 
 ## Tutorials
 * [FlowingData](http://flowingdata.com/category/tutorials/)
