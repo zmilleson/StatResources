@@ -67,6 +67,7 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 * [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/datasets)
 * [U.S. Goverment Web and XML Data Services](http://usgovxml.com/)
 * [U.S. Government Data](https://www.data.gov)
+* [KDNuggets Government State, City, Local and Public](http://www.kdnuggets.com/datasets/government-local-public.html)
 
 ## Tutorials
 * [FlowingData](http://flowingdata.com/category/tutorials/)
