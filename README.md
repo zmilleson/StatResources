@@ -7,7 +7,6 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 * [Kaggle](https://www.kaggle.com/datasets)
 * [Kaggle - NFL Draft Outcomes](https://www.kaggle.com/ronaldjgrafjr/nfl-draft-outcomes)
 * [Kaggle - Detailed 2015 Play-by-Play Data](https://www.kaggle.com/maxhorowitz/nflplaybyplay2015)
-* [U.S. Government Data](https://www.data.gov)
 * [AWS Public Datasets](https://aws.amazon.com/public-datasets)
 * [Google Cloud Public Datasets](https://cloud.google.com/bigquery/public-data/)
 * [List of Public Datasets on Quora](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
@@ -63,7 +62,10 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 * [SBNation's Football Study Hall](http://www.footballstudyhall.com)
 * [Snoozle](http://www.snoozlesports.net)
 
+## U.S. Government Data
 * [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/datasets)
+* [U.S. Goverment Web and XML Data Services](http://usgovxml.com/)
+* [U.S. Government Data](https://www.data.gov)
 
 ## Tutorials
 * [FlowingData](http://flowingdata.com/category/tutorials/)
