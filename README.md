@@ -5,8 +5,6 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 
 ## Datasets
 * [Kaggle](https://www.kaggle.com/datasets)
-* [Kaggle - NFL Draft Outcomes](https://www.kaggle.com/ronaldjgrafjr/nfl-draft-outcomes)
-* [Kaggle - Detailed 2015 Play-by-Play Data](https://www.kaggle.com/maxhorowitz/nflplaybyplay2015)
 * [AWS Public Datasets](https://aws.amazon.com/public-datasets)
 * [Google Cloud Public Datasets](https://cloud.google.com/bigquery/public-data/)
 * [List of Public Datasets on Quora](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
@@ -41,6 +39,8 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 * [Football Outsiders Snapcounts](http://www.footballoutsiders.com/stats/snapcounts)
 * [Historical NFL Combine Results](http://nflcombineresults.com)
 * [nflscrapR - Scrapes NFL API with R](https://github.com/maksimhorowitz/nflscrapR)
+* [Kaggle - Detailed 2015 Play-by-Play Data](https://www.kaggle.com/maxhorowitz/nflplaybyplay2015)
+* [Kaggle - NFL Draft Outcomes](https://www.kaggle.com/ronaldjgrafjr/nfl-draft-outcomes)
 
 ### NFLGSIS
 * [NFL Game Statistics & Information System](http://nflgsis.com)
