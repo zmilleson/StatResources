@@ -13,6 +13,7 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 * [Awesome Public Datasets on GitHub](https://github.com/caesar0301/awesome-public-datasets)
 * [Open Science Data Cloud](https://www.opensciencedatacloud.org/publicdata/)
 * [Reddit OpenData](https://www.reddit.com/r/opendata/)
+* [KDNuggets Datasets](http://www.kdnuggets.com/datasets/index.html)
 
 ## Sports-Reference
 * [NFL Reference](http://www.pro-football-reference.com/)
