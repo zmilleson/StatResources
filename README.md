@@ -42,6 +42,7 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 * [Kaggle - Detailed 2015 Play-by-Play Data](https://www.kaggle.com/maxhorowitz/nflplaybyplay2015)
 * [Kaggle - NFL Draft Outcomes](https://www.kaggle.com/ronaldjgrafjr/nfl-draft-outcomes)
 * [Air Yards - Easy to use NFL data with visualizations](http://www.airyards.com)
+* [Pro Football API - Affordable NFL API for stats and schedules](https://profootballapi.com)
 
 ### NFLGSIS
 * [NFL Game Statistics & Information System](http://nflgsis.com)
