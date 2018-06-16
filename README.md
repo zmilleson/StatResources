@@ -66,6 +66,7 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 * [Snoozle](http://www.snoozlesports.net)
 * [SCACCHoops - ACC Stats site for FB and BB](http://scacchoops.com)
 * [NCAA Game Simulator - Simulates CFB, MBB, NFL, NBA](http://ncaagamesim.com)
+* [Football Study Hall - College Football Statistics Articles](https://footballstudyhall.com)
 
 ## U.S. Government Data
 * [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/datasets)
