@@ -29,7 +29,8 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 * [CFBStats.com](http://www.cfbstats.com/)
 * [Matt Mills Data Sets and R Scripts](https://github.com/mattmills49/CFB_Analysis)
 * [Dr Wag's CFB & NFL Stats and Odds](http://www.drwagpicks.com/p/blog-page.html)
-* [BlueSCar's CFB Stats from ESPN's API (NPM)](https://github.com/BlueSCar/cfb-data)
+* [BlueScar's CFB Stats from ESPN's API (NPM)](https://github.com/BlueSCar/cfb-data)
+* [BlueScar's API access](http://api.collegefootballdata.com)
 
 ## NFL Data
 * [NFLStatHeads Subreddit](https://www.reddit.com/r/NFLstatheads/)
