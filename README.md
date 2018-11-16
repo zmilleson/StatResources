@@ -31,7 +31,7 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 * [Dr Wag's CFB & NFL Stats and Odds](http://www.drwagpicks.com/p/blog-page.html)
 * [BlueScar's CFB Stats from ESPN's API (NPM)](https://github.com/BlueSCar/cfb-data)
 * [BlueScar's API access](http://api.collegefootballdata.com)
-* [Brian Fremeau's CFB Analytical Ratings and Rankings] (http://www.bcftoys.com)
+* [Brian Fremeau's CFB Analytical Ratings and Rankings](http://www.bcftoys.com)
 
 ## NFL Data
 * [NFLStatHeads Subreddit](https://www.reddit.com/r/NFLstatheads/)
