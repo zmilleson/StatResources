@@ -80,3 +80,10 @@ Most of the sites and data have a sports theme as you will be able to tell immed
 
 ## Tutorials
 * [FlowingData](http://flowingdata.com/category/tutorials/)
+
+## API Resources
+* [Rapid API](https://rapidapi.com)
+* [Prgrammable Web API Directory](https://www.programmableweb.com/category/all/apis)
+* [APIs.io](http://apis.io/)
+* [APIs.guru](https://apis.guru/)
+* [Postman Public APIs](https://www.postman.com/explore)
